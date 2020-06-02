@@ -1,0 +1,4 @@
+pages\BasicPage.class
+pages\PersonalRoomPage.class
+helpers\ConfigHelper.class
+pages\MainPage.class

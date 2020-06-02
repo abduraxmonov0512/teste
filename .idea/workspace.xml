@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3f0073a-e4df-4ee7-9050-2131ac940ed3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/AddPositionPlanSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PlanSchedulePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/features/contestTest.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/features/monitoring.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/features/monitoring.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/UserConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/UserConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/06ba4f0e-12ce-44d8-a812-e249b803aea3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6ca02b17-949b-4e8a-9222-783dcd1589df-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d021d17b-e8eb-4734-b5a9-e83039d4c18e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f5c49afc-17e5-4c11-918d-bbb580ae38b8-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RunTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RunTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-RunTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-RunTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UserConfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UserConfig.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1andbc1iY83OvJkmafWB9xzzaQH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="helpers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Automations\uiAutotest\src\test" />
+      <recent name="D:\Automations\uiAutotest\src\test\java" />
+      <recent name="D:\Automations\uiAutotest\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uiAutotest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f0073a-e4df-4ee7-9050-2131ac940ed3" name="Default Changelist" comment="" />
+      <created>1587375363259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587375363259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1589045098768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589045098768" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1591083848285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591083848285" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1590837707921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590837707921" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1590837707921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590837707921" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1590837707921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590837707921" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1590837707921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590837707921" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591083666049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591083666049" />
+    <state x="209" y="114" key="new project wizard" timestamp="1587460038443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="114" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587460038443" />
+    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1590218574804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="334" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1590218574804" />
+  </component>
+</project>

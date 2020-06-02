@@ -1,0 +1,5 @@
+RunTest.class
+steps\BasicDef.class
+steps\MainPageDef.class
+steps\Hooks.class
+steps\PersonalRoomDef.class
